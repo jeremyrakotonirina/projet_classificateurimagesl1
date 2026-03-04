@@ -23,7 +23,7 @@ L’objectif est de mettre en pratique la démarche VI-ME-RÉ-BAR (Visualisation
 | `0_analyse.md` | Feuille d’analyse de données à compléter (chargement, attributs, modèles, résultats). |
 | **`tps/`** | Feuilles de TP de référence : jeu de données, ACP, extraction d’attributs, classificateurs. |
 | `utilities.py` | Fonctions utilitaires (chargement d’images, filtres, extraction d’attributs, validation croisée, etc.). |
-| `setup.cfg`, `.gitignore`, `.gitlab-ci.yml` | Configuration Python, Git et CI. |
+
 
 Un dossier **`clean_data/`** peut être créé pour stocker les images prétraitées et les fichiers exportés (ex. CSV) après nettoyage.
 
