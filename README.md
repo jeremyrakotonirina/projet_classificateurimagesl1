@@ -1,4 +1,4 @@
-# Mini-projet 2 – Introduction à la science des données
+# Projet– Introduction à la science des données
 
 Ce dépôt contient le **mini-projet 2** du cours *Introduction à la science des données* (L1).  
 L’objectif est de mettre en pratique la démarche VI-ME-RÉ-BAR (Visualisation, Mesure, Référence, Barres d’erreur) sur un problème de **classification d’images**.
