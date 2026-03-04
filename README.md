@@ -33,7 +33,7 @@ Un dossier **`clean_data/`** peut être créé pour stocker les images prétrait
 
 - **Python** 3.x
 - Bibliothèques : `numpy`, `pandas`, `matplotlib`, `seaborn`, `scikit-learn`, `Pillow`, `scipy`
-- Module du cours : `intro_science_donnees` (selon l’environnement de TP)
+
 
 ---
 
