@@ -19,8 +19,8 @@ L’objectif est de mettre en pratique la démarche VI-ME-RÉ-BAR (Visualisation
 |--------|-------------|
 | **`data/`** | **Jeu de données** : images (poires et pommes de pin) utilisées pour l’analyse et la classification. |
 | `index.md` | Page principale du mini-projet (objectifs, planning, liens vers les feuilles). |
-| `0_diaporama.md` | Squelette du diaporama pour la soutenance. |
-| `0_analyse.md` | Feuille d’analyse de données à compléter (chargement, attributs, modèles, résultats). |
+| `0_diaporama.md` | Notebook pour la soutenance. |
+| `0_analyse.md` | Feuille d’analyse de données (chargement, attributs, modèles, résultats). |
 | **`tps/`** | Feuilles de TP de référence : jeu de données, ACP, extraction d’attributs, classificateurs. |
 | `utilities.py` | Fonctions utilitaires (chargement d’images, filtres, extraction d’attributs, validation croisée, etc.). |
 
