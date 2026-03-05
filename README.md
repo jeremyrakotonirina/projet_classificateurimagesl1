@@ -53,10 +53,9 @@ Un dossier **`clean_data/`** peut être créé pour stocker les images prétrait
 
 1. **Jeu de données** : images dans `data/` (poires vs pommes de pin).
 2. **Préparation** : recadrage, redimensionnement, éventuel seuillage / filtrage.
-3. **Attributs** : extraction (couleur, forme, ACP, etc.) et construction d’un tableau (DataFrame).
+3. **Attributs** : extraction (couleur, forme, ACP, etc.) 
 4. **Classification** : entraînement et évaluation de modèles (k-NN, arbre, SVM, etc.) avec validation croisée.
 5. **Analyse** : comparaison des performances, discussion des biais, perspectives.
-6. **Soutenance** : diaporama à partir de `0_diaporama.md`.
 
 ---
 
