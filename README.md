@@ -7,7 +7,7 @@ L’objectif est de mettre en pratique la démarche VI-ME-RÉ-BAR (Visualisation
 
 ## Jeu de données
 
-- **Emplacement** : le dossier **`data/`** contient les images du projet (votre jeu de données).
+- **Emplacement** : le dossier **`data/`** contient les images du projet (le jeu de données).
 - **Problème** : classification binaire entre **poires** et **pommes de pin**.
 - Les images sont chargées, prétraitées puis utilisées pour extraire des attributs (couleur, forme, etc.) et entraîner des classificateurs.
 
